@@ -2,6 +2,7 @@
 
 ## Relases
 
+No relases in [Relases](https://github.com/Pinky-Core/Proyecto-EscapeRoom-Entrega/releases/)
 
 
 ## Use
