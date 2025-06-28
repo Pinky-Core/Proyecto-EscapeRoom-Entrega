@@ -16437,7 +16437,7 @@ MonoBehaviour:
   movementScript: {fileID: 114963310857537177}
   lookScript: {fileID: 114657889654365651}
   timerText: {fileID: 1119372152}
-  timerDuration: 30
+  timerDuration: 3600
   timerAnimator: {fileID: 1119372154}
   pauseMenuScript: {fileID: 1552597204}
   inGameMenuScript: {fileID: 1552597205}
